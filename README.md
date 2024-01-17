@@ -1,4 +1,4 @@
-![image](https://github.com/Sarthak102/Full-Stack-Real-Estate/assets/91387298/99f8a32b-cbd6-4083-8ac5-18533842d5c1)# Real Estate Rental Project
+## Full Stack Real Estate Rental Project
 
 Welcome to the Real Estate Rental Project, a full-stack application developed using the MERN (MongoDB, Express.js, React.js, Node.js) stack. This project aims to provide a comprehensive solution for managing and searching rental properties in the real estate domain. Whether you are a property owner looking to list your rentals or a potential tenant searching for the perfect home, this application offers a seamless experience.
 
